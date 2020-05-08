@@ -1,4 +1,4 @@
-package com.restapi.exception;
+package com.ed.exception;
 
 public class RecordNotFoundException extends Exception {
 

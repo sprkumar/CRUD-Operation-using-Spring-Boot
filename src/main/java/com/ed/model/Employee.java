@@ -1,4 +1,4 @@
-package com.restapi.model;
+package com.ed.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

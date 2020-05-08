@@ -1,4 +1,4 @@
-package com.restapi.controller;
+package com.ed.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.restapi.exception.ResourceNotFoundException;
-import com.restapi.model.Employee;
-import com.restapi.service.EmployeeService;
+import com.ed.exception.ResourceNotFoundException;
+import com.ed.model.Employee;
+import com.ed.service.EmployeeService;
 
 @RequestMapping("/api")
 @RestController
